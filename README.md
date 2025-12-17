@@ -41,7 +41,7 @@ You can usually just double click the file to "run it in the browser". Or you ca
 
 And you should see a small button that says "connect".
 
-![Connect](connect.png)
+![Connect](https://github.com/Cyfrin/html-fund-me-cu/blob/main/connect.png?raw=true)
 
 Hit it, and you should see metamask pop up.
 
