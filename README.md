@@ -1,4 +1,4 @@
-# html-fund-me-cu
+# html-fund-me
 
 
 # Requirements
